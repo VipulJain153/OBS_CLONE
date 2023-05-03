@@ -25,7 +25,7 @@ class VideoCapture():
     resolution = (1920, 1080)
     size = int(cap.get(3)),int(cap.get(4))
     codec = cv2.VideoWriter_fourcc(*"mp4v")#or*"MJPG"
-    fps = 30.0
+    fps = 14.0
     filename="Recording.mp4"
     out = cv2.VideoWriter(filename, codec, fps, resolution)
 
