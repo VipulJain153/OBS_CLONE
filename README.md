@@ -1,2 +1,2 @@
 # OBS_CLONE
-I am the best
+AI loses everything honey it comes to teachers
